@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: gainsboro;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+
+}
+
+
+div{
+  padding :10px;  
+  text-align: center;
+}
+select{
+  padding: 5px;
+  text-align: center;
+}

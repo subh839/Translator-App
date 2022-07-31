@@ -1,0 +1,14 @@
+.btn{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.App {
+    text-align: center;
+  }
+  div{
+    padding :10px;  
+  }
+  select{
+    padding: 5px;
+  }
